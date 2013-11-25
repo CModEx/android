@@ -473,8 +473,8 @@
   <project path="packages/apps/Settings" name="CModEx/android_packages_apps_Settings" />
   <project path="frameworks/base" name="CModEx/android_frameworks_base" />
   <project path="device/lge/mako" name="CModEx/android_device_lge_mako" />
-  <project path="vendor/broadcom" name="CModEx/vendor_broadcom" />
-  <project path="vendor/qcom" name="CModEx/vendor_qcom" />
+  <project path="vendor/broadcom/mako" name="CModEx/vendor_broadcom_mako" />
+  <project path="vendor/qcom/mako" name="CModEx/vendor_qcom_mako" />
   <project path="vendor/lge/mako" name="CModEx/vendor_lge_mako" />
   
 </manifest>
