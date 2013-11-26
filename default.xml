@@ -477,4 +477,6 @@
   <project path="vendor/qcom/mako" name="CModEx/vendor_qcom_mako" />
   <project path="vendor/lge/mako" name="CModEx/vendor_lge_mako" />
   
+  <project path="kernel/lge/mako" name="reborn90/mako" revision="nightlies-4.4" />
+  
 </manifest>
